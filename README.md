@@ -55,3 +55,7 @@ Pastikan direktori proyek memiliki penataan struktur sebagai berikut agar aset d
 4. **Penghitungan Skor:** Program mengecek posisi burung. Jika berhasil melewati batas kanan pipa yang belum dilewati, skor bertambah (+1 untuk satu pasang pipa) dan `JLabel` skor diperbarui.
 5. **Kondisi Game Over:** Setiap frame, program mengecek fungsi `collision()`. Jika burung bersinggungan dengan pipa atau menyentuh batas bawah layar, `gameOver` menjadi `true`. *Timer* berhenti sementara, dan teks "GAME OVER" muncul di layar.
 6. **Restart Permainan:** Saat status `gameOver`, menekan tombol **R** akan mengatur ulang posisi burung, skor (kembali 0), dan membersihkan pipa di layar. *Timer* berjalan kembali tanpa menutup aplikasi.
+
+## Dokumentasi
+![Alt Text](URL_GAMBAR_YANG_DICOPY)
+![Alt Text](URL_GAMBAR_YANG_DICOPY)
