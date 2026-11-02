@@ -57,5 +57,6 @@ Pastikan direktori proyek memiliki penataan struktur sebagai berikut agar aset d
 6. **Restart Permainan:** Saat status `gameOver`, menekan tombol **R** akan mengatur ulang posisi burung, skor (kembali 0), dan membersihkan pipa di layar. *Timer* berjalan kembali tanpa menutup aplikasi.
 
 ## Dokumentasi
-![Alt Text](URL_GAMBAR_YANG_DICOPY)
-![Alt Text](URL_GAMBAR_YANG_DICOPY)
+![Alt Text](dokumentasi/start.png)
+![Alt Text](dokumentasi/gameOver.png)
+
